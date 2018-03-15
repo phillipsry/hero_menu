@@ -1,0 +1,27 @@
+.hmenu_wrapper_state_1 {
+    height: 40px!important;
+}
+
+.menu-toggle, .main-navigation.toggled ul {
+    display: none!important;
+}
+
+@media screen and (max-width: 768px) {
+ 
+#site-navigation > div {
+    height: 40px;
+}}
+
+@media screen and (max-width: 37.5em) { 
+.main-navigation ul { 
+display:block; 
+} }
+
+@media (max-width: 600px) {
+  #hmenu_load_1 .hmenu_wrap {
+    padding: 0px 0px!important;
+  }}
+
+.hmenu_wrap.icon_hero_default_thin_e645 {
+    margin-top: 12px!important;
+}
